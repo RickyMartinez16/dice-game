@@ -18,7 +18,7 @@ let winner = document.querySelector("h1")       //select the heading text
 winner.innerText = randomNumber1 === randomNumber2 ? "Draw" : randomNumber1 > randomNumber2 ? "Player 1 Wins!" : "Player 2 Wins!"
 
 
-//if else to change heading
+//if else to change heading            //same thing as above
 
 // if(randomNumber1 === randomNumber2){
 //     winner.innerText = "Tie!"
