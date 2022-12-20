@@ -1,4 +1,6 @@
 
+//js file to change the dice
+
 let randomNumber1 = Math.floor(Math.random() * 6) + 1;  //random number for dice 1
 let randomNumber2 = Math.floor(Math.random() * 6) + 1;  //random number for dice 2
 
@@ -27,3 +29,5 @@ winner.innerText = randomNumber1 === randomNumber2 ? "Draw" : randomNumber1 > ra
 // } else {
 //     winner.innerText = "Player 2 Wins!"
 // }
+
+
