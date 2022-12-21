@@ -30,4 +30,4 @@ winner.innerText = randomNumber1 === randomNumber2 ? "Draw" : randomNumber1 > ra
 //     winner.innerText = "Player 2 Wins!"
 // }
 
-
+//happens on refresh
