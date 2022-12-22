@@ -31,3 +31,5 @@ winner.innerText = randomNumber1 === randomNumber2 ? "Draw" : randomNumber1 > ra
 // }
 
 //happens on refresh
+
+//this is the age that changes the dice
